@@ -1,7 +1,7 @@
 # Restaurant Pickup
 Midterm Project for Lighthouse Lab's Web Development Bootcamp
 
-!["Home Page"](https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/home.png)
+<img src="https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/home.png" height="300px"/>
 !["Menu](https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/menu.png)
 !["Checkout"](https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/cart.png)
 !["Pending/Accepting Orders"](https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/confirmed.png)
