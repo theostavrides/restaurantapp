@@ -1,7 +1,7 @@
 # Restaurant Pickup
 A web app for a fictitious restaurant that provides an order pickup service. Users can view the restaurant's menu and create their order, which the Restaurant can then accept or decline.  Users will be notified of their order status through the site and via SMS.
 
----
+
 <img src="https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/home.png" />
 <img src="https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/menu.png" />
 <img src="https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/cart.png" />
