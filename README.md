@@ -2,7 +2,7 @@
 Midterm Project for Lighthouse Lab's Web Development Bootcamp
 
 <img src="https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/home.png" height="300px"/>
-!["Menu](https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/menu.png)
+<img src="https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/menu.png" height="300px />
 !["Checkout"](https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/cart.png)
 !["Pending/Accepting Orders"](https://raw.githubusercontent.com/theostavrides/restaurantapp/master/screenshots/confirmed.png)
 
